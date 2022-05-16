@@ -1205,6 +1205,11 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
+next-ga4@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/next-ga4/-/next-ga4-0.1.0.tgz#b7135a6b1734f8ea45144be8397077ca669eb4b0"
+  integrity sha512-Ooq8UXAljeYJo1iy5Q0n1NpbMyZHPzl/1yj0OEmMxxzTDxA7DvN2F1G+Ibc8aUJXxIWEfJzKhvqq11Sv0/KOfA==
+
 next@12.1.6:
   version "12.1.6"
   resolved "https://registry.yarnpkg.com/next/-/next-12.1.6.tgz#eb205e64af1998651f96f9df44556d47d8bbc533"
